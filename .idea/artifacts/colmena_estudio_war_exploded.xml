@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="colmena_estudio:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/colmena_estudio_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="colmena_estudio/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="colmena_estudio" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
